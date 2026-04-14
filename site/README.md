@@ -1,6 +1,6 @@
 # AI for Your Business
 
-**Instructor:** Trey Overton
+**Instructor:** Trey Overton, <a href="https://heatherstoneacademy.com" target="_blank">Heatherstone Academy</a>
 
 ## Welcome
 

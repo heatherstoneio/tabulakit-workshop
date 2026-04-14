@@ -25,3 +25,19 @@
 .sidebar .app-name-link {
   font-size: 0.85em;
 }
+
+.markdown-section h1 a,
+.markdown-section h2 a,
+.markdown-section h3 a {
+  text-decoration: none !important;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: var(--theme-color-teal) !important;
+}
+html::-webkit-scrollbar-thumb:hover {
+  background: var(--theme-color-teal) !important;
+}
+html {
+  scrollbar-color: var(--theme-color-teal) var(--base-background-color, #222222) !important;
+}

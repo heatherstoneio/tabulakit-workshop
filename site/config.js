@@ -6,14 +6,14 @@
  */
 window.TABULAKIT_CONFIG = {
   // Site identity
-  name: "TabulaKit Workshop",
+  name: "AI Workshop",
   description: "TabulaKit's full course guide for workshop participants.",
   logo: "tabula.svg",  // Path to logo image (optional, shown in sidebar)
 
   // Theme colors (CSS custom property overrides)
   theme: {
-    color: "#22c55e",           // Primary accent color (headings)
-    tealColor: "#3bc0cb",       // Secondary accent (links, nav highlights)
+    color: "#f97316",           // Primary accent color (headings)
+    tealColor: "#22c55e",       // Secondary accent (links, nav highlights)
     sidebarWidth: "280px",
     baseFontSize: "20px"
   },
