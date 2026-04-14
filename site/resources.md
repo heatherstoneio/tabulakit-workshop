@@ -1,53 +1,35 @@
 # Resources & Links
 
-## Course Tools
+## Tools We Use
 
-| Tool | Purpose | Link |
-|------|---------|------|
-| TabulaKit | Documentation site template | [GitHub](https://github.com/heatherstoneio/tabulakit) |
-| Claude Code | AI coding assistant | [claude.ai/code](https://claude.ai/code) |
-| Docsify | Markdown site renderer | [docsify.js.org](https://docsify.js.org/) |
-| VS Code | Code editor | [code.visualstudio.com](https://code.visualstudio.com/) |
+| Tool | What It Does | Link |
+|------|-------------|------|
+| **VS Code** | Your workspace — where you write, talk to AI, and see changes | [code.visualstudio.com](https://code.visualstudio.com/) |
+| **Claude Code** | AI assistant that understands your entire project | [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) |
+| **Claude Pro** | AI subscription ($20/mo) | [claude.ai](https://claude.ai) |
+| **GitHub** | Stores your project and tracks changes | [github.com](https://github.com) |
+| **TabulaKit** | Template for documentation sites | [github.com/heatherstoneio/tabulakit](https://github.com/heatherstoneio/tabulakit) |
 
-## Documentation
+## After the Workshop
 
-| Topic | Link |
-|-------|------|
-| Markdown Guide | [markdownguide.org](https://www.markdownguide.org/) |
-| Docsify Docs | [docsify.js.org/#/configuration](https://docsify.js.org/#/configuration) |
-| GitHub Pages | [pages.github.com](https://pages.github.com/) |
+- **Heatherstone Academy Discord** — Community of workshop alumni (invite link provided at the workshop)
+- **Course materials** — Everything on this site stays available permanently
+- **Cheat sheets** — Quick reference for commands and common tasks (provided at the workshop)
 
-## Cheat Sheet
+## Recommended Reading
 
-### Markdown Basics
+- *Inside the Machine* by Trey Overton — How AI actually works, in plain English (forthcoming)
+- *Beyond the Machine* by Trey Overton — Practical AI applications for business (forthcoming)
 
-```markdown
-# Heading 1
-## Heading 2
-### Heading 3
+Workshop participants receive a coupon for both books.
 
-**bold** and *italic*
+## Getting Help
 
-- Bullet list
-- Another item
+- **During the workshop:** Raise your hand — that's what we're here for
+- **After the workshop:** Post in the Discord community
+- **AI help:** Just ask Claude Code — describe your problem in plain English
 
-1. Numbered list
-2. Another item
+## Going Deeper
 
-[Link text](https://example.com)
-
-| Column 1 | Column 2 |
-|----------|----------|
-| Cell     | Cell     |
-```
-
-### Common Claude Code Prompts
-
-```
-"Add a new page about X"
-"Change the theme color to green"
-"Add a table to the roster page"
-"Update the sidebar with a new section"
-"Deploy to Firebase"
-"Help me write documentation about X"
-```
+- **Fractional CTO services** — Custom AI implementation for your business ([heatherstone.com](https://heatherstone.com))
+- **Advanced workshops** — Coming soon

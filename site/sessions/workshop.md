@@ -1,65 +1,105 @@
-# Hands-On Workshop
+# Workshop: Build Your AI-Powered Business System
 
-## Overview
+*4 hours — hands-on, bring your laptop | 1:00 PM - 5:00 PM | $499*
 
-This is the core hands-on session. You'll build and deploy your own documentation site using TabulaKit and Claude Code.
+You'll leave with a working AI environment, a deployed website for your business, and the knowledge to keep building on your own.
 
-## What You'll Build
+## Before You Arrive
 
-By the end of this workshop, you'll have:
-- A configured documentation site with your own name and theme
-- Content tailored to your needs
-- A live site deployed to the internet
+Complete the [pre-work checklist](pre-work.md) at least 48 hours before the workshop. If you get stuck on any step, don't worry — we have a troubleshooting window at the start.
 
-## Exercises
+## Hour 1: Foundation
 
-### Exercise 1: Setup Your Site
+### Welcome & Troubleshooting (15 min)
+- Quick intros — your name, your business, what you hope to get today
+- Verify pre-work: Claude Pro, VS Code, GitHub, WSL/Terminal
+- Fix any remaining setup issues
+- Ground rule: "You will get stuck. That's normal. Raise your hand."
 
-1. Open your forked TabulaKit repo in Claude Code
-2. Run `/startup`
-3. Follow the wizard to configure your site name, theme, and deployment target
+### Why Version Control Matters (15 min)
+- Think of it as an undo button for your entire project
+- Your project history becomes context that makes AI smarter
+- GitHub as your project's home base
+- **Hands-on:** Create your project from the template
 
-> **This is the recursive part:** You're using TabulaKit to learn about TabulaKit. The site you're building right now was built the same way.
+### Why Claude Code (15 min)
+- Chat interfaces vs. project-aware AI
+- The difference: ChatGPT knows your message; Claude Code knows your project
+- Why this matters even if you never write code
+- The document-first philosophy: your project folder IS your business plan
 
-### Exercise 2: Add Content
+### Your First Session (15 min)
+- **Hands-on:** Open Claude Code, explore the interface
+- First interaction: "Read my project and tell me what you know"
+- Edit your project description — watch AI adapt in real time
 
-1. Ask Claude Code to add a new page about a topic you choose
-2. Watch how it creates the file and updates the sidebar
-3. Preview your site locally: `npx live-server site --port=3000`
+## Hour 2: Building Your System
 
-### Exercise 3: Customize
+### Your Project File (20 min)
+- The file that tells AI who you are and how to help you
+- **Hands-on:** Customize it with your business description, products, customers, and challenges
 
-Try asking Claude Code to:
-- Change your theme color
-- Add a section header to the sidebar
-- Rearrange your navigation
-- Add an image or table to a page
+### Settings and Permissions (10 min)
+- How AI asks before acting (and why that's good)
+- Configuring what AI can do automatically vs. what needs your approval
 
-### Exercise 4: Deploy
+### Adding Skills (15 min)
+- Reusable templates for common tasks — write once, use forever
+- Walk through starter skills: `/plan`, `/draft`, `/review`, `/research`
+- Why "plan my project using these steps" beats "you are a project management expert"
+- **Hands-on:** Use `/plan` on a real challenge from YOUR business
 
-Follow the deployment instructions to go live with GitHub Pages:
-1. Go to your repo on GitHub -> **Settings** -> **Pages**
-2. Set Source to **GitHub Actions**
-3. Push your changes — the site will deploy automatically
+### Organizing Your Documents (15 min)
+- Folder structure as business architecture
+- Why simple text files (markdown) beat Word docs for AI
+- Organizing by function: plans, research, communications, operations
+- **Hands-on:** Create folders and seed documents for your business
 
-### Exercise 5: Explore (Bonus)
+## Hour 3: Going Live
 
-If you finish early:
-- Try a different template
-- Customize the CSS
-- Add a custom Claude Code skill in `.claude/commands/`
+### Your Documents as a Website (20 min)
+- Why you want to see your docs as a site: readability, sharing, professionalism
+- Markdown in, website out — no coding required
+- **Hands-on:** Preview your business documents as a real website
+- Navigate your own site, see how structure maps to navigation
 
-## Troubleshooting
+### Deploying to the Internet (25 min)
+- Access from your phone, share with partners, always current
+- **Hands-on (guided, step by step):**
+  1. Set up hosting
+  2. Configure your site
+  3. Deploy
+  4. Visit your live URL — your site is on the internet!
 
-| Problem | Solution |
-|---------|----------|
-| `/startup` not recognized | Make sure you're in the repo root, not a subfolder |
-| Local preview won't start | Run `npx live-server site --port=3000` from the repo root |
-| Site shows blank page | Check that `site/index.html` exists and isn't corrupted |
-| Deploy failed | Check GitHub Pages settings — make sure Source is set to GitHub Actions |
+### Securing With Login (15 min)
+- Why secure it: business plans, strategy docs, client info
+- Google sign-in: one click, no passwords to manage
+- **Hands-on:** Enable authentication, test it works
 
-## Next Steps
+## Hour 4: Your Project + Next Steps
 
-After the workshop:
-- Keep building on your site
-- Share your site with others!
+### Independent Project Work (35 min)
+- Work on YOUR business with AI assistance
+- Instructor circulates, answers questions, troubleshoots
+- Suggested starter tasks:
+  - Draft a business plan outline
+  - Create a competitive analysis
+  - Build a customer onboarding checklist
+  - Write a marketing strategy
+
+### Understanding Costs (10 min)
+- Claude Pro ($20/mo) vs. Max ($100/mo) — when to upgrade
+- The ROI framing: $20-100/mo vs. hours of your time
+- How to manage usage effectively
+
+### What's Next & Wrap-Up (15 min)
+
+**You're leaving with:**
+- Your working AI environment (it's yours forever)
+- Permanent access to course materials
+- Cheat sheets for everything we covered
+- Copy/paste library of settings, skills, and configurations
+- Discord invite: community of workshop alumni
+- Coupon for Trey's forthcoming AI books
+
+[Pre-Work Checklist](pre-work.md) | [Schedule](schedule.md) | [Register](https://heatherstoneacademy.com)
