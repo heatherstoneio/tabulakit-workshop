@@ -3,6 +3,7 @@
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)
 - [Pre-Work](pre-work.md)
+- [Getting Started](getting-started.md)
 - **SESSIONS**
 - [Intro Session](sessions/intro.md)
 - [Workshop](sessions/workshop.md)
