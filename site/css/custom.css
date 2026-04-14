@@ -21,3 +21,7 @@
  *   Hide the search bar:
  *     .search { display: none; }
  */
+
+.sidebar .app-name-link {
+  font-size: 0.85em;
+}

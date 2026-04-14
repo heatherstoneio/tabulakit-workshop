@@ -8,7 +8,7 @@ window.TABULAKIT_CONFIG = {
   // Site identity
   name: "TabulaKit Workshop",
   description: "TabulaKit's full course guide for workshop participants.",
-  logo: "",  // Path to logo image (optional, shown in sidebar)
+  logo: "tabula.svg",  // Path to logo image (optional, shown in sidebar)
 
   // Theme colors (CSS custom property overrides)
   theme: {
